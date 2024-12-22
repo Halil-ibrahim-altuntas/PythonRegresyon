@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 20 22:03:08 2021
 
-@author: KAAN
+@author: Kaan,Furkan,Halil İbrahim 
 """
 
 
